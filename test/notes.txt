@@ -1,0 +1,44 @@
+<textarea name=note cols=80 rows=40 readonly style='display:none'>{
+  "000csl":"000csl",
+  "001cil":"001cil",
+  "002img":"002img",
+  "003email":"003email",
+  "004phone":"004phone",
+  "005mobile":"005mobile",
+  "100text":"手机号码",
+  "101radio":"性别",
+  "102select":"携带儿童数目",
+  "103select":"携带第一名儿童的年龄",
+  "104select":"携带第二名儿童的年龄",
+  "105select":"携带第三名儿童的年龄",
+  "106select":"携带满18周岁成人家属人数",
+  "107radio":"是否开车",
+  "108checkbox":"喜欢的活动",
+  "109checkbox":"喜欢的活动",
+  "110checkbox":"喜欢的活动",
+  "111checkbox":"喜欢的活动",
+  "112checkbox":"喜欢的活动",
+  "113checkbox":"喜欢的活动",
+  "114checkbox":"喜欢的活动",
+  "115textarea":"其他建议和意见"
+}
+</textarea>
+
+
+
+
+
+TODO：
+1. 人数控制
+2. admin显示人员列表
+3. img改成工号
+4. 增加“撤销”按键
+
+
+
+
+
+
+
+
+

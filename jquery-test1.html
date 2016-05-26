@@ -1,0 +1,77 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="http://fn-cm.sbell.com.cn/cgi-bin/workspace/booking-dev/dump.cgi/booking.css" />
+
+<script src="http://fn-cm.sbell.com.cn/cgi-bin/workspace/booking-dev/dump.cgi/jquery-1.12.3.js"> </script>
+
+<script>
+
+$(function(){ 
+    //上移 
+    var $up = $(".up") 
+    $up.click(function() { 
+        var $tr = $(this).parents("tr"); 
+        if ($tr.index() != 0) { 
+            $tr.fadeOut().fadeIn(); 
+            $tr.prev().before($tr); 
+             
+        } 
+    }); 
+    //下移 
+    var $down = $(".down"); 
+    var len = $down.length; 
+	alert('1)len='+len);
+    $down.click(function() { 
+        var $tr = $(this).parents("tr"); 
+		alert('2)len='+len);
+        if ($tr.index() != len - 1) { 
+            $tr.fadeOut().fadeIn(); 
+            $tr.next().after($tr); 
+        } 
+    }); 
+    //置顶 
+    var $top = $(".top"); 
+    $top.click(function(){ 
+        var $tr = $(this).parents("tr"); 
+        $tr.fadeOut().fadeIn(); 
+        $(".table").prepend($tr); 
+        $tr.css("color","#f60"); 
+    }); 
+}); 
+
+</script>
+</head>
+<body>
+
+<table class="table"> 
+    <tr> 
+        <td><input type=button class="up" value="上移">  <input type=button class="down" value="下移"></td> 
+        <td>1</td> 
+        <td>HTML5获取地理位置定位信息</td> 
+    </tr> 
+    <tr> 
+        <td><input type=button class="up" value="上移">  <input type=button class="down" value="下移"></td> 
+        <td>2</td> 
+        <td>HTML5获取地理位置定位信息</td> 
+    </tr> 
+    <tr> 
+        <td><input type=button class="up" value="上移">  <input type=button class="down" value="下移"></td> 
+        <td>3</td> 
+        <td>HTML5获取地理位置定位信息</td> 
+    </tr> 
+    <tr> 
+        <td><input type=button class="up" value="上移">  <input type=button class="down" value="下移"></td> 
+        <td>4</td> 
+        <td>HTML5获取地理位置定位信息</td> 
+    </tr> 
+    <tr> 
+        <td><input type=button class="up" value="上移">  <input type=button class="down" value="下移"></td> 
+        <td>5</td> 
+        <td>HTML5获取地理位置定位信息</td> 
+    </tr> 
+</table> 
+
+</body>
+</html>
+

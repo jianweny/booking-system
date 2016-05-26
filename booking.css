@@ -1,0 +1,135 @@
+﻿
+body, img {
+	padding:0; 
+	margin:0;
+	border:0;
+}
+
+.xxx {
+	display:none;
+}
+
+.error {
+	color:red;
+}
+
+div, body, html{margin:0; padding:0; --width:100%;overflow:auto; } 
+div#banner{overflow:hidden;}
+
+//body { font-family:"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu } 
+
+#config_and_preview tr td {vertical-align:top;}
+//#config_and_preview tr td fieldset {background-color:#eee;}
+
+#booking_content {margin:5px; padding:5px; } 
+
+#content {position:relative;height:700px; width:100%;}
+
+#left,#right,#middle{ height:700px; position:absolute;margin-top:0px;text-align:center;} 
+
+#left{width:300px;} 
+
+#middle{ width:12px;left:300px;background:#666;} 
+#middle:hover{ cursor:w-resize;} 
+
+#right{right:0; left:312px; width:auto;} 
+
+#footer{text-align:center;background:#eee;position:relative} 
+
+
+table {
+	border-collapse: collapse;
+	//width:100%;
+}
+
+.table1,.table2,.table3,.table4,.table5,.table6,.table7,.table8,.table9,.table10,.input_preview {width:100%;}
+
+.table5 th {
+//	width:200px;
+}
+.table2 th {
+	width:40%;
+	font-weight: normal;
+}
+.table2 td {
+//	width:300px;
+//	font-weight: bold;
+}
+.table3 th {
+	width:40%;
+	font-weight: normal;
+}
+.table3 td {
+//	width:300px;
+//	font-weight: bold;
+}
+
+u , legend{
+	font-weight: bold;
+	text-decoration:none;
+}
+
+th, td {
+	padding: 0.2em 0.3em;
+} 
+
+.td1 {
+	vertical-align:top;
+}
+th {
+	text-align:right;
+}
+.td2 {
+	background-color:#ccc;
+}
+.submit1 {
+	text-align:center;
+}
+
+.submit2, .submit_final, .toplabel{
+	width: 100px;
+	text-align:center;
+}
+.submit2, .submit_final, .toplabel{
+	font-size:20;
+}
+
+.title {
+	text-align:center;
+}
+
+.h {
+	background-color:#ffc;
+}
+
+.d0 {
+	background-color:#fff;
+}
+.d1 {
+	background-color:#eee;
+}
+
+.NOK      {color:red;}
+.Booked {color:green;}
+.Queued {color:#ffa62f;}
+}
+
+#todo_1,#todo_2 {background-color:#eee;}
+#td_part3 {background-color:#eee;}
+
+
+a{text-decoration : none} 
+a:hover{text-decoration:underline} 
+
+
+
+img#action_picture{
+ max-width:600px; 
+ width:expression(this.width > 600 && this.height < this.width ? 600: true); 
+ max-height:400px; 
+ height:expression(this.height > 400 ? 400: true);
+} 
+
+td.ActionInfo{
+	padding: 0px 50px 5px 50px;
+}

@@ -1,0 +1,141 @@
+$errorMsg = 0
+------------------------------------------------------------------------
+dn:CN=jianweny,OU=Users,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+
+                    objectClass: top
+                                 person
+                                 organizationalPerson
+                                 user
+                             cn: jianweny
+                             sn: YAO
+                              c: CN
+                              l: SHANGHAI JINQIAO
+                             ou: ALCATEL SHANGHAI BELL
+                          title: Fixed Protocol DEV Manager
+                    description: 3083
+                  postalAddress: Alcatel-Lucent SHANGHAI BELL$388 Ningqiao Road$PuDong Jinqiao$201206 SHANGHAI$CHINA
+                telephoneNumber: +86 21 38436156 (2712 6156)
+                      givenName: Jianwen
+              distinguishedName: CN=jianweny,OU=Users,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                   instanceType: 4
+                    whenCreated: 20060825044232.0Z
+                    whenChanged: 20160325013849.0Z
+                    displayName: YAO Jianwen
+                 otherTelephone: 2712 6156
+                     uSNCreated: 49761
+                       memberOf: CN=DL_CN_RES_ASB_Reading_Club,OU=Groups,OU=CNABS,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=SEC_CN_ASB_DPT_FNBBABU,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_ASB_FNBBABU,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=SEC_CN_RES_ASB_AppUsers,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_LUC_FN_BROADBAND_ACCESS_CHINA,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_ASB_FN_BBABU,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_China_TC,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_LOC_SH_JinQiao,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_RU China People Manager,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=SEC_CN_RES_MyTeamwork,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=SEC_CN_RES_ActiveSync,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=PKI_CN_Authentication_enabled,OU=CENTRAL,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=SharePoint_AllUsers,OU=Global Groups,OU=Groups,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_ASB_WLPD_SH_MANAGER,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=Sharepoint_AllUsers_CN,OU=Global Groups,OU=Groups,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_COM_99999,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_ASB_WLPD_SH,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_ASB_WLPD_FAPU,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_ASB_CPG_WLPD_R&D_MGC12,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=SEC_CN_RES_ASB_ColorPrintUser,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=ccedausr,OU=EDA,OU=ClearCase,OU=NT_Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=NGN,OU=ClearCase,OU=NT_Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_ASB_CBG_MCD_R&D_SH,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_ASB_CBG_MCD_R&D,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=DL_CN_RES_ASB_CBG- MCDID-HT,OU=Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=Group VPN,OU=NT_Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=ALL-ASB,OU=NT_Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=CC_FND-AD_NGNgw,OU=FND-AD,OU=ClearCase,OU=NT_Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=ASB_ProxyUsers,OU=NT_Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=ASB_ALL-Exchange,OU=NT_Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                                 CN=Group VND,OU=NT_Groups,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+                     uSNChanged: 1055795118
+                             co: CHINA
+                     department: FNBBABU
+                        company: Alcatel-Lucent Shanghai Bell
+                        homeMTA: CN=Microsoft MTA,CN=CNSHJMBX03,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=GME,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=ad,DC=alcatel,DC=com
+                 proxyAddresses: sip:Jianwen.Yao@alcatel-sbell.com.cn
+                                 smtp:jianweny@sh.ad4.ad.alcatel.com
+                                 smtp:Jianwen.Yao@gme2.alcatel.com
+                                 x500:/o=GME/ou=AP-AG1/cn=Recipients/cn=JianWen.Yao
+                                 SMTP:Jianwen.Yao@alcatel-sbell.com.cn
+                                 X500:/o=sbtemc/ou=NT/cn=Recipients/cn=YaoJW
+                                 smtp:YaoJW@sbell.com.cn
+                                 x400:c=CN;a= ;p=sbtemc;o=NT;s=Yao;g=JianWen;
+                                 smtp:JianWen.Yao@e2kcn.alcatel.com
+                                 x500:/O=ALCATEL/OU=CN/CN=YAO JIANWEN
+                                 X400:c=US;a= ;p=GME;o=Exchange;s=jianweny;
+                        homeMDB: CN=DB07_3_1_2,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=GME,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=ad,DC=alcatel,DC=com
+                  streetAddress: Alcatel-Lucent SHANGHAI BELL
+388 Ningqiao Road
+PuDong Jinqiao
+201206 SHANGHAI
+CHINA
+                 mDBUseDefaults: TRUE
+           extensionAttribute10: jianweny@sh.ad4.ad.alcatel.com
+                   mailNickname: jianweny
+               protocolSettings: MAPI§§§§§1§§§
+               internetEncoding: 1310720
+           extensionAttribute13: ID:F70AACCA7DAEE641845BE9F4ACE73E9E/A:{3D98DC35-4F80-4deb-B8AD-37C8950CD514}_INACTIVE/CF:
+           extensionAttribute14: 178B7B176718FE41A7790A6C19F7CF85
+                           name: jianweny
+             userAccountControl: 544
+                    badPwdCount: 0
+                       codePage: 0
+                    countryCode: 0
+                     employeeID: CV0003083
+                badPasswordTime: 131037142121284133
+                     lastLogoff: 0
+                      lastLogon: 131037162086243036
+                     pwdLastSet: 131015331511053276
+                 primaryGroupID: 513
+                 accountExpires: 0
+                     logonCount: 12755
+                 sAMAccountName: jianweny
+                 sAMAccountType: 805306368
+               legacyExchangeDN: /o=GME/ou=AP-AG1/cn=Recipients/cn=jianweny
+              userPrincipalName: jianweny@ad4.ad.alcatel.com
+                    lockoutTime: 0
+                        ipPhone: CV0003083N0.sbell.com.cn
+                 objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=ad,DC=alcatel,DC=com
+
+          dSCorePropagationData: 20150519072854.0Z
+                                 20140821092016.0Z
+                                 20140327033605.0Z
+                                 20130321010809.0Z
+                                 16010714223648.0Z
+             lastLogonTimestamp: 131029033829540753
+           textEncodedORAddress: X400:C=US;A= ;P=GME;O=Exchange;S=jianweny;
+                           mail: Jianwen.Yao@alcatel-sbell.com.cn
+                         mobile: 8618616387201
+         msExchPoliciesExcluded: {26491CFC-9E50-4857-861B-0CB8DF22B5D7}
+                     loginWings: jianweny
+           msExchHomeServerName: /o=GME/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CNSHJMBX03
+          msExchALObjectVersion: 174
+
+                    alcatel-CIL: Jianwen YAO
+                    alcatel-UPI: CV0003083
+              msExchUserCulture: en-US,zh-CN
+     msRTCSIP-PrimaryHomeServer: CN=Lc Services,CN=Microsoft,CN=1:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=ad,DC=alcatel,DC=com
+          msRTCSIP-UserPolicies: 27=2
+                                 1=1
+                                 0=1783841820
+                  msExchVersion: 44220983382016
+       msExchMobileMailboxFlags: 1
+ 
+     msExchRecipientDisplayType: 1073741824
+       msExchTextMessagingState: 302120705
+                                 16842751
+           msExchRBACPolicyLink: CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=GME,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=ad,DC=alcatel,DC=com
+     msExchRecipientTypeDetails: 1
+           msRTCSIP-UserEnabled: TRUE
+     msRTCSIP-DeploymentLocator: SRV:
+           msExchDelegateListBL: CN=CVS020387,OU=Directory,OU=CNASB,OU=CN,DC=ad4,DC=ad,DC=alcatel,DC=com
+ msRTCSIP-InternetAccessEnabled: TRUE
+     msRTCSIP-FederationEnabled: TRUE
+    msRTCSIP-PrimaryUserAddress: sip:Jianwen.Yao@alcatel-sbell.com.cn
